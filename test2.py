@@ -4,6 +4,10 @@ db = client.test
 print(db)
 
 d = {'name':'Ritesh','Id': 'ritesh@gmail.com','surname' : 'kumar'}
+d = {'name':'Ritesh','Id': 'ritesh@gmail.com','surname' : 'kumar'}
+d = {'name':'Ritesh','Id': 'ritesh@gmail.com','surname' : 'kumar'}
+d = {'name':'Ritesh','Id': 'ritesh@gmail.com','surname' : 'kumar'}
+
 
 db1 = client['mongotest']
 coll = db1['test']
